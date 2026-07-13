@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://demolab.com" alt="Pawan Tryambake"/>
-</p>
+<h1 style="color: #000000; font-family: 'Space Grotesk', sans-serif;">PAWAN TRYAMBAKE</h1>
 
 ### Frontend Developer • UI Enthusiast • Building Modern Web Experiences
 
@@ -16,7 +14,7 @@
 
 ---
 
-## _
+## /
 
 ```javascript
 const pawan = {
