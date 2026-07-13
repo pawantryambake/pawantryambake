@@ -1,9 +1,7 @@
 <div align="center">
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=34&duration=2500&pause=1200&center=true&vCenter=true&width=800&lines=PAWAN+TRYAMBAKE;Frontend+Developer;Crafting+Modern+Web+Experiences."/>
-
+  <img src="https://demolab.com" alt="Pawan Tryambake"/>
 </p>
 
 ### Frontend Developer • UI Enthusiast • Building Modern Web Experiences
@@ -18,7 +16,7 @@
 
 ---
 
-## /
+## _
 
 ```javascript
 const pawan = {
