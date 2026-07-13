@@ -1,27 +1,123 @@
-# 💫 About Me:
-I’m currently working on<br>Building responsive web projects using HTML, CSS, and JavaScript<br>Improving my Git and GitHub workflow<br>Creating a strong developer portfolio website<br>🤝 I’m looking to collaborate on<br>Beginner-friendly web development projects<br>Open-source front-end projects<br>UI/UX improvement projects for websites<br>🆘 I’m looking for help with<br>Advanced JavaScript concepts<br>Real-world DevOps workflow understanding<br>Best practices for clean code and project structuring<br>🌱 I’m currently learning<br>JavaScript (DOM manipulation + async concepts)<br>Git & GitHub version control<br>Basics of DevOps tools and deployment<br>💬 Ask me about<br>HTML & CSS layouts<br>Beginner JavaScript projects<br>Git/GitHub basics<br>How I’m building my portfolio step-by-step<br>⚡ Fun fact<br>I can turn a simple HTML page into a full website with just CSS creativity 😄<br>I debug more than I sleep sometimes 😅<br>I believe “Every expert was once a beginner who didn’t quit.”<br><br><br><br><br><br><br><br>
+<div align="center">
 
+<p align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/BUmfSZWca) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pawan_tryambake) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itzpawan74@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=34&duration=2500&pause=1200&center=true&vCenter=true&width=800&lines=PAWAN+TRYAMBAKE;Frontend+Developer;Crafting+Modern+Web+Experiences."/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pawantryambake&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=pawantryambake&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pawantryambake&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pawantryambake&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### Frontend Developer • UI Enthusiast • Building Modern Web Experiences
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pawantryambake&limit=5&theme=radical&combine_all_yearly_contributions=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel)](https://pawan-portfolio-ochre.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pawan_tryambake)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itzpawan74@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=pawantryambake&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## /
+
+```javascript
+const pawan = {
+
+    role: "Frontend Developer",
+
+    location: "Pune, India",
+
+    building: [
+        "Modern Websites",
+        "Interactive UI",
+        "Creative Experiences"
+    ],
+
+    currentlyLearning: [
+        "React",
+        "JavaScript",
+        "Motion Design"
+    ],
+
+    philosophy:
+        "Less clutter. More impact."
+
+}
+```
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,git,github,vscode,figma,blender&perline=6"/>
+
+</p>
+
+---
+
+## Featured Projects
+
+### 🌐 Portfolio
+
+> Apple-inspired personal portfolio.
+
+🔗 https://pawan-portfolio-ochre.vercel.app
+
+---
+
+### 🛒 Product Store
+
+Responsive React application.
+
+---
+
+### 🎬 Netflix Clone
+
+Responsive landing page.
+
+---
+
+### ⚡ More projects coming soon...
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pawantryambake&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawantryambake&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=pawantryambake&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### Connect
+
+<a href="https://pawan-portfolio-ochre.vercel.app">Portfolio</a> •
+<a href="https://github.com/pawantryambake">GitHub</a> •
+<a href="mailto:itzpawan74@gmail.com">Email</a> •
+<a href="https://instagram.com/pawan_tryambake">Instagram</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *Building digital experiences, one pixel at a time.*
+
+![](https://komarev.com/ghpvc/?username=pawantryambake&style=flat-square)
+
+</div>
